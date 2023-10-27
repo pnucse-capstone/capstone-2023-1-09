@@ -18,7 +18,7 @@
    ![ResNet101 구성도](https://github.com/pnucse-capstone/capstone-2023-1-09/assets/147837947/f3187434-a472-4286-9acb-81acf5b70f9c)
 
 # 4. 소개 및 시연 영상
-[2023전기_DeepHeart조_프로젝트소개영상] [https://youtu.be/EwunWLN_ho0?si=0BeXXPwFQKACVhA6](https://youtu.be/EwunWLN_ho0?si=dgLBVtjZ8w7sOGeJ)
+[2023년 전기 졸업과제 09 DeepHeart](https://www.youtube.com/watch?v=-FRwygKBJ28)
     
 # 5. 사용법
 pytorch기반의 딥러닝 프로그램으로, python환경 구축이 필요합니다. 데이터셋의 크기가 구글 colab환경에서 다룰 수 있는 메모리용량을 초과하기 때문에, 32GB이상의 메모리 환경이 권장됩니다.
