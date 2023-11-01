@@ -14,8 +14,16 @@
    ![데이터전처리 구성도](https://github.com/pnucse-capstone/capstone-2023-1-09/assets/147837947/b111d53c-895b-447a-8650-0aa6108afe59)
 ### <BiLstm구성도>
    ![BiLstm 구성도](https://github.com/pnucse-capstone/capstone-2023-1-09/assets/147837947/3dd9acd2-0b0a-4331-b4ab-7281ee82163e)
+   ![Lstm 결과치](https://github.com/pnucse-capstone/capstone-2023-1-09/assets/147837947/0693eeda-375b-4619-8b9a-f8d95c548ddc)
+   ![Lstm ROC/AUC curve](https://github.com/pnucse-capstone/capstone-2023-1-09/assets/147837947/3c4177dc-3fea-4a1d-b308-c2a682d997d5)
+
+
 ### <ResNet101구성도>
    ![ResNet101 구성도](https://github.com/pnucse-capstone/capstone-2023-1-09/assets/147837947/f3187434-a472-4286-9acb-81acf5b70f9c)
+   ![ResNet 결과치](https://github.com/pnucse-capstone/capstone-2023-1-09/assets/147837947/f4d52a7a-a0a8-4395-8b97-3053b749c0bb)
+   ![ResNet 모델 ROC/AUC curve](https://github.com/pnucse-capstone/capstone-2023-1-09/assets/147837947/fe3d34ba-a110-443f-82f6-ce8e76f56f17)
+
+
 
 # 4. 소개 및 시연 영상
 [2023년 전기 졸업과제 09 DeepHeart](https://www.youtube.com/watch?v=-FRwygKBJ28)
